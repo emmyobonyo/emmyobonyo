@@ -10,11 +10,15 @@
 const aboutMe = {
   lookingFor: "Backend Developer Job" || "Full-stack web developer",
   languages: [Rails, Ruby, React, Redux, Javascript, Bootstrap],
-  askMeAbout: [good-Books, good-music, wrting,food-shows, latest-technologies, loving-people, The-perks-of-being-a-wall-flower],
+  askMeAbout: [Good-Books, Good-Music, Wrting, Food-Shows, Latest-Technologies, Loving-People, The-perks-of-being-a-wall-flower],
   challenge: "I am honing my Ruby skills",
   funFacts: ['How come pur minds, that are supposed to work in our favor, sometimes seem to work against our favour']
 }
 ```
+
+<h4>What I've Been Working on</h4>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **emmyobonyo/emmyobonyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
