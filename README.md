@@ -2,7 +2,7 @@
 
 <h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> I'm Emmanuel but you can call me Emmy!</h2>
 
-<p><em>Full-stack Web Developer. Dreamer in me free time.</em></p>
+<p><em>Full-stack Web Developer. Dreamer in my free time.</em></p>
 
 <h4>About Me</h4>
 
