@@ -1,6 +1,8 @@
 <img src="/images/banner.png" alt="banner" width="100%"/>
 
-### Hi there 👋
+<h2> Hi, I'm Eli Villalejos! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+
+<p><em>Full-stack Web Developer. Reader and Traveller in my spare time.</em></p>
 
 <!--
 **emmyobonyo/emmyobonyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
