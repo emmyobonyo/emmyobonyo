@@ -7,7 +7,7 @@
 <h4>About Me</h4>
 
 ```javascript
-const eliVillalejos = {
+const aboutMe = {
   lookingFor: "Backend Developer Job" || "Full-stack web developer",
   languages: [Rails, Ruby, React, Redux, Javascript, Bootstrap],
   askMeAbout: [good-Books, good-music, wrting,food-shows, latest-technologies, loving-people, The-perks-of-being-a-wall-flower],
