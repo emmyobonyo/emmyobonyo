@@ -12,7 +12,7 @@ const aboutMe = {
   languages: [Rails, Ruby, React, Redux, Javascript, Bootstrap],
   askMeAbout: [Good-Books, Good-Music, Wrting, Food-Shows, Latest-Technologies, Loving-People, The-perks-of-being-a-wall-flower],
   challenge: "I am honing my Ruby skills",
-  funFacts: ['How come pur minds, that are supposed to work in our favor, sometimes seem to work against our favour']
+  funFact: ['I smile all the time i guess']
 }
 ```
 
