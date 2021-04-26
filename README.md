@@ -1,4 +1,4 @@
-![banner-image](/images/emmanuel-obonyo.png | width=100)
+<img src="/images/emmanuel-obonyo.png" alt="drawing" width="200"/>
 
 ### Hi there 👋
 
