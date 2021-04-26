@@ -1,4 +1,4 @@
-![banner-image](/images/emmanuel-obonyo.png)
+![banner-image](/images/emmanuel-obonyo.png| width=100)
 
 ### Hi there 👋
 
