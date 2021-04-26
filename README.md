@@ -1,4 +1,4 @@
-<img src="/images/emmanuel-obonyo.png" alt="banner" width="100%"/>
+<img src="/images/banner.png" alt="banner" width="100%"/>
 
 ### Hi there 👋
 
