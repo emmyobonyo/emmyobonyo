@@ -1,3 +1,5 @@
+![banner-image](/images/emmanuel-obonyo.png)
+
 ### Hi there 👋
 
 <!--
