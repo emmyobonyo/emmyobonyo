@@ -16,7 +16,8 @@ const aboutMe = {
 }
 ```
 
-<h4>What I've Been Working on</h4>
+<h4>Stats</h4>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
