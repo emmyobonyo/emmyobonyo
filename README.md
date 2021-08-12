@@ -1,5 +1,3 @@
-<img src="/images/banner.png" alt="banner" width="100%"/>
-
 <h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> I'm Emmanuel but you can call me Emmy!</h2>
 
 <p><em>Full-stack Web Developer. Dreamer in my free time.</em></p>
@@ -9,9 +7,9 @@
 ```javascript
 const aboutMe = {
   lookingFor: "Backend Developer Job" || "Full-stack web developer",
-  languages: [Rails, Ruby, React, Redux, Javascript, Bootstrap],
+  languages: [Javascript, HTML, CSS, Bootstrap],
   askMeAbout: [Good-Books, Good-Music, Wrting, Food-Shows, Latest-Technologies, Loving-People, The-perks-of-being-a-wall-flower],
-  challenge: "I am honing my Ruby skills",
+  challenge: "Learning Javascript",
   funFact: ['I smile all the time i guess']
 }
 ```
