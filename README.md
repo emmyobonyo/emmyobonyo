@@ -7,8 +7,7 @@
 
 ```javascript
 const emmy = {
-  lookingFor: 'Frontend Developer Job' || 'Full-stack web developer',
-  languages: ['JavaScript', 'HTML', 'CSS', 'Bootstrap'],
+  languages: ['React','JavaScript', 'HTML', 'CSS', 'Bootstrap'],
   askMeAbout: ['Good Books', 'Good Music', 'Wrting', 'Food Shows', 'Latest Technologies', 'Loving People', 'The perks of being a wall flower'],
   challenge: 'Learning React',
   funFact: ['I smile all the time i guess']
