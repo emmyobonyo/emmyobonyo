@@ -9,7 +9,7 @@
 const emmy = {
   languages: ['React','JavaScript', 'HTML', 'CSS', 'Bootstrap'],
   askMeAbout: ['Good Books', 'Good Music', 'Wrting', 'Food Shows', 'Latest Technologies', 'Loving People', 'The perks of being a wall flower'],
-  challenge: 'Learning React',
+  challenge: 'Learning to listen to podcasts and code at the same time :)',
   funFact: ['I smile all the time i guess']
 }
 ```
